@@ -1,4 +1,4 @@
-/*raspberry pi PWM Control*/
+/*raspberry pi PWM Control over socket*/
 /*compile: gcc pipwm_socket.c -lwiringPi -lpthread*/
 /*man getaddrinfo*/
 #include <sys/types.h>
